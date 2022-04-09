@@ -1,0 +1,5 @@
+servidor_gaspar_01;192.168.33.1;proxy-spo;TESTE_CURSO,CURSO_API/ALUNOS/GASPAR/SERVIDORES;101 - Linux Complementar,411 - LDAP;Servidor,Linux;Serviço:LDAP
+servidor_gaspar_02;192.168.33.2;proxy-rjo;TESTE_CURSO,CURSO_API/ALUNOS/GASPAR/SERVIDORES;201 - Windows Complementar,408 - WSUS;Servidor,Windows;Serviço:WSUS
+roteador_gaspar;192.168.33.3;proxy-bsa;TESTE_CURSO,CURSO_API/ALUNOS/GASPAR/ROTEADORES;301.2 - Descoberta de Interfaces Roteador - SNMP v2,305.1 - Fabricante Cisco v2;Roteador,Cisco;Serviço:Circuito WAN
+switch_gaspar_01;192.168.33.4;proxy-spo;TESTE_CURSO,CURSO_API/ALUNOS/GASPAR/SWITCHES;301.1 - Descoberta de Interfaces Switch - SNMP v2,305.1 - Fabricante Cisco v2;Switch,Cisco;Serviço:Rede Local
+switch_gaspar_02;192.168.33.5;proxy-rjo;TESTE_CURSO,CURSO_API/ALUNOS/GASPAR/SWITCHES;301.1 - Descoberta de Interfaces Switch - SNMP v2,307.1 - Fabricante Foundry v2;Switch,Foundry;Serviço:Rede Local
